@@ -1,7 +1,7 @@
 # I. Short description of the tool "AnalyzeSrttpf"
 The tool SRTTPF finds the small rounded two/three-part form in larger corpora of monophonic songs and dances as they were published in popular music collections in Europe between 1650 and the early 19th century. 
-To this end, SRTTPF identifies all repeated note sequences (defined by pitch and duration). Most importantly, it also shows repeated note sequences that 'compete' with each other because they overlap. For more information on the tool and its function: https://smc2020torino.it/adminupload/file/SMCCIM_2020_paper_189.pdf
-https://github.com/BKutschke/srttpf/blob/main/OMR-SMC-paper_189.mp4
+To this end, SRTTPF identifies all repeated note sequences (defined by pitch and duration). Most importantly, it also shows repeated note sequences that 'compete' with each other because they overlap. For more information on the tool and its function: 1. https://smc2020torino.it/adminupload/file/SMCCIM_2020_paper_189.pdf
+2. https://github.com/BKutschke/srttpf/blob/main/OMR-SMC-paper_189.mp4
 
 # II. Instructions for installing and running ‚AnalyzeSrttpf‘
 The instructions focus on Windows. In section 1 and 2, the instructions operate with a preconfigured version of the tool suitable for a test run. The test run provides a first idea of the tool. Instructions for the tool’s individual configurations follow in section 3.
