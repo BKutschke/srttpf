@@ -4,6 +4,7 @@ To this end, SRTTPF identifies all repeated note sequences (defined by pitch and
 - https://smc2020torino.it/adminupload/file/SMCCIM_2020_paper_189.pdf
 - https://github.com/BKutschke/srttpf/blob/main/OMR-SMC-paper_189.mp4
 
+
 For a description of the music-historical research project motivating the development of the AnalyzeSrttpf:
 - https://github.com/BKutschke/srttpf/file/Description_of_music-historical_project.pdf
 
