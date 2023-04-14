@@ -3,8 +3,9 @@ The tool SRTTPF finds the small rounded two/three-part form in larger corpora of
 To this end, SRTTPF identifies all repeated note sequences (defined by pitch and duration). Most importantly, it also shows repeated note sequences that 'compete' with each other because they overlap. For more information on the tool and its function: 
 - https://smc2020torino.it/adminupload/file/SMCCIM_2020_paper_189.pdf
 - https://github.com/BKutschke/srttpf/blob/main/OMR-SMC-paper_189.mp4
+
 For a description of the music-historical research project motivating the development of the AnalyzeSrttpf:
-- https://github.com/BKutschke/srttpf/file/Description of music-historical project.pdf
+- https://github.com/BKutschke/srttpf/file/Description_of_music-historical_project.pdf
 
 # II. Instructions for installing and running ‚AnalyzeSrttpf‘
 The instructions focus on Windows. In section 1 and 2, the instructions operate with a preconfigured version of the tool suitable for a test run. The test run provides a first idea of the tool. Instructions for the tool’s individual configurations follow in section 3.
